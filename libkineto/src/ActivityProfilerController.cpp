@@ -5,7 +5,7 @@
  * This source code is licensed under the BSD-style license found in the
  * LICENSE file in the root directory of this source tree.
  */
-//接收配置，之后控制活动跟踪、调度执行等
+//接收配置，之后控制活动跟踪、调度执行等，acceptConfig之后，执行scheduleTrace进行分析过程，之后profilerLoop控制循环。
 #include "ActivityProfilerController.h"
 
 #include <chrono>
