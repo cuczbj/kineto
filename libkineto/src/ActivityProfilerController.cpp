@@ -5,7 +5,7 @@
  * This source code is licensed under the BSD-style license found in the
  * LICENSE file in the root directory of this source tree.
  */
-
+//控制活动跟踪、调度执行等
 #include "ActivityProfilerController.h"
 
 #include <chrono>
