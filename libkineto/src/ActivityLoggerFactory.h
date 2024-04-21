@@ -5,7 +5,7 @@
  * This source code is licensed under the BSD-style license found in the
  * LICENSE file in the root directory of this source tree.
  */
-
+//工厂函数，调用这个类时，会创建一个logger，将数据通过url等方式记录下来
 #pragma once
 
 #include <algorithm>
