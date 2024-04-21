@@ -5,7 +5,7 @@
  * This source code is licensed under the BSD-style license found in the
  * LICENSE file in the root directory of this source tree.
  */
-
+//一些配置的基类，用于管理和解析 Kineto 库的配置参数
 #include "AbstractConfig.h"
 
 #include <array>
