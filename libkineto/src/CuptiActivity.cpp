@@ -5,7 +5,7 @@
  * This source code is licensed under the BSD-style license found in the
  * LICENSE file in the root directory of this source tree.
  */
-
+//CUPTI的活动的处理函数
 #include "CuptiActivity.h"
 
 #include <fmt/format.h>
