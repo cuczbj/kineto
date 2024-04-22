@@ -5,7 +5,7 @@
  * This source code is licensed under the BSD-style license found in the
  * LICENSE file in the root directory of this source tree.
  */
-
+//从后台或文件加载配置
 #include "ConfigLoader.h"
 
 #ifdef __linux__
