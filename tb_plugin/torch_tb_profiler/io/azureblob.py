@@ -1,6 +1,7 @@
 # -------------------------------------------------------------------------
 # Copyright (c) Microsoft Corporation. All rights reserved.
 # -------------------------------------------------------------------------
+#存储的文件系统访问，创建目录等
 import os
 
 from azure.storage.blob import ContainerClient
